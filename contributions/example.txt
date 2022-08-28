@@ -1,0 +1,7 @@
+# Example list for contributors.
+# List your domains one on each line and just the domain/subdomain. Please don't add full URLs and don't add lines with "http"/"https".
+example.org
+www.example.com
+example.net
+example.org
+www.example.edu
