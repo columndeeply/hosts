@@ -4,7 +4,7 @@ The list is split into 90MB chunks to avoid GitHub's [file size limit](https://d
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01
 
-If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases). I'll be updated once a month.
+If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). I'll be updated once a month.
 
 # Contributing
 Since this list is just a fused version of other lists and the domains aren't manually checked it'll probably have false positives. If a site is listed here and you think it shouldn't please let me know by opening a new issue or making a pull request. The same goes if you think a site should be added to the list. In both cases please use the appropriate tag on the issue/PR title: ``[Addition Request]`` or ``[Removal Request]``.
