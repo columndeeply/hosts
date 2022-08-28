@@ -3,7 +3,7 @@
 # All empty lines, anything pointing to localhost, comments, trailing whitespaces, multiple spaces, tabs, etc. get removed.
 # All domains should point to 127.0.0.1
 # If any of the domains exist in the whitelist it's ignored.
-# Once everything is clean the file gets stored and any duplicate gets removed.
+# Once everything is clean the file gets sorted and any duplicate gets removed.
 #
 
 for file in "$@"; do
