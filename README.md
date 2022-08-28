@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.564.663 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing and YouTube.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.563.657 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing and YouTube.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). Here are the raw links to all parts of the list:
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00
