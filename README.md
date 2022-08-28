@@ -7,7 +7,7 @@ The list is split into 90MB chunks to avoid GitHub's [file size limit](https://d
 If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases). I'll be updated once a month.
 
 # Contributing
-Since this list is just a fused version of other lists and the domains aren't manually checked it'll probably have false positives. If a site is listed here and you think it shouldn't please let me know by opening a new issue or making a pull request. The same goes if you think a site should be added to the list. In both cases please use the appropriate tag on the issue title: ``[Addition Request]`` or ``[Removal Request]``.
+Since this list is just a fused version of other lists and the domains aren't manually checked it'll probably have false positives. If a site is listed here and you think it shouldn't please let me know by opening a new issue or making a pull request. The same goes if you think a site should be added to the list. In both cases please use the appropriate tag on the issue/PR title: ``[Addition Request]`` or ``[Removal Request]``.
 
 ### By making an issue
 If you're submitting more than a couple dozen domains please make a pull request or use a pastebin site. If it's just a few domains then just paste them on the issue. If you took the domains from another list please say so and leave a link to their page so it can be added to the "Sources" table below.
