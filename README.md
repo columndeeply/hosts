@@ -36,7 +36,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [1boii's list](https://github.com/1boii/hosts/blob/main/hosts) | 2022/03/11 |  |
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2022/05/29 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2021/12/24 |  |
-| [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) |  | Using the "HOSTS RAW" list for "Porn" and "Porn Lite Extension". 255,621 and 51,065 entries. |
+| [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) | 255,621 / 51,065 | Using the "HOSTS RAW" list for "Porn" and "Porn Lite Extension". |
 | [My Privacy DNS's list](https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list) | 2021/12/03 |  |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2022/08/24 | Seems to pull from [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts). |
 | [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/08/26 |  |
