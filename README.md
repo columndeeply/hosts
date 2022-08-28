@@ -32,7 +32,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 
 | Link | Last update | Comments |
 |---|---|---|
-| [11201010's list](https://github.com/11201010/anti-porn-hosts-file/blob/master/HOSTS.txt) | 2020/08/03 | Forked from [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File), looks abandoned. |
+| [11201010's list](https://github.com/11201010/anti-porn-hosts-file/blob/master/HOSTS.txt) | 2020/08/03 | Forked from [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt), looks abandoned. |
 | [1boii's list](https://github.com/1boii/hosts/blob/main/hosts) | 2022/03/11 |  |
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2022/05/29 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2021/12/24 |  |
