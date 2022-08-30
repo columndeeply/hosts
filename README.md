@@ -12,7 +12,7 @@ Add these to your blocklist and you're ready to go.
 
 ## Hosts file
 ### On Windows
-If you go to "C:\Windows\System32\drivers\etc" there should be a "hosts" file. Open it with administrator privileges and add the contents my lists.
+If you go to "C:\Windows\System32\drivers\etc" there should be a "hosts" file. Open it with administrator privileges and add the contents of my lists.
 ### On Linux and MacOS
 The hosts file is usually located here: /etc/hosts. You can add the contents of my lists by downloading the files and appending them with ``cat hosts0X >> /etc/hosts``
 ### On Android
