@@ -47,6 +47,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/08/28 |  |
 | [tiuxo's list](https://github.com/tiuxo/hosts/blob/master/porn) | 2020/12/06 | Looks abandoned. |
+| [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
 
 ## Random lists
 - https://gist.githubusercontent.com/sibaspage/5248d7600a24284f580219b29d178c49/raw/b35fdaf7a8685b536da0022102e125df70c50eb1/pornsite-list.txt
