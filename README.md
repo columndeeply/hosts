@@ -15,7 +15,7 @@ Add these to your blocklist and you're ready to go.
 If you go to "C:\Windows\System32\drivers\etc" there should be a "hosts" file. Open it with administrator privileges and add the contents my lists.
 ### On Linux and MacOS
 The hosts file is usually located here: /etc/hosts. You can add the contents of my lists by downloading the files and appending them with ``cat hosts0X >> /etc/hosts``
-### Android
+### On Android
 You can use any of the DNS based blockers like [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [personalDNSfilter](https://f-droid.org/en/packages/dnsfilter.android/) or [Daedalus](https://f-droid.org/en/packages/org.itxtech.daedalus/) and add the same links you would use for AdGuard Home/PiHole/Technitium DNS.
 
 # Contributing
