@@ -51,13 +51,13 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) | 255,621 / 51,065 | Using the "HOSTS RAW" list for "Porn" and "Porn Lite Extension". |
 | [My Privacy DNS's list](https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list) | 2021/12/03 |  |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2022/08/24 | Seems to pull from [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts). |
-| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/08/26 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d' hosts`` |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/08/31 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d' hosts`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2022/06/21 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/08/28 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/08/31 |  |
 | [chadmyfield's list](https://github.com/chadmayfield/my-pihole-blocklists/blob/master/lists/pi_blocklist_porn_all.list) | 2020/09/11 | Archived. |
 | [clefspeare13's list](https://mypdns.org/clefspeare13/pornhosts/-/tree/master/download_here/0.0.0.0) | 2022/04/06 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
-| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/08/28 |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/08/31 |  |
 | [tiuxo's list](https://github.com/tiuxo/hosts/blob/master/porn) | 2020/12/06 | Looks abandoned. |
 | [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
 
