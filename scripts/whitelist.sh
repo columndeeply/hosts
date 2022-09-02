@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-# Removes any domains it find on the whitelist
+# Removes any domains it finds on the whitelist
 #
 
 # Remove temp file from previous runs if needed
