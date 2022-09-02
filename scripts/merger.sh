@@ -4,6 +4,9 @@
 ## sh merger.sh "*_clean"
 #
 
+# If no parameters given exit
+[ $# -eq 0 ] && exit
+
 # Remove temp file from previous runs if needed
 rm -f merged.tmp
 
@@ -20,6 +23,10 @@ rm -f ../hosts*
 
 # Remove duplicates
 sort < merged.tmp | uniq > merged
+
+# Check whitelist and remove matches
+comm -2 -3 merged ../whitelist > merged2
+mv merged2 merged
 
 # Split the merged file into 90MB chunks to avoid GitHub's limit
 split merged hosts -C 90MB -d
