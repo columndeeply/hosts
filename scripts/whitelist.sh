@@ -13,6 +13,8 @@ rm -f ../hosts*
 
 # Remove duplicates
 sort < merged.tmp | uniq > merged
+sort < ../whitelist | uniq > whitelist
+mv whitelist ../whitelist
 
 # Check whitelist and remove matches
 comm -2 -3 merged ../whitelist > merged2
