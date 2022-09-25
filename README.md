@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.583.966 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing and YouTube.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.616.978 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing and YouTube.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -57,13 +57,16 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/09/24 |  |
+| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/03/06 |  |
 
 ## Random lists
 - https://gist.githubusercontent.com/sibaspage/5248d7600a24284f580219b29d178c49/raw/b35fdaf7a8685b536da0022102e125df70c50eb1/pornsite-list.txt
 - https://booru.org/top (Filtered by NSFW and sorted by number of images. First 10 pages only since after that they had less than 200 images each, not worth the effort to parse them.)
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
+- https://github.com/saskuu/blocklist/blob/main/porno.txt
 
 ## Archived or abandoned (+1 year without updates)
 - https://github.com/11201010/anti-porn-hosts-file/blob/master/HOSTS.txt (2020/08/03)
 - https://github.com/chadmayfield/my-pihole-blocklists/blob/master/lists/pi_blocklist_porn_all.list
 - https://github.com/tiuxo/hosts/blob/master/porn (2020/12/06)
+- https://github.com/Amdr0meda/Blocklist_Pi_Hole/blob/master/Porn%20pages.txt (2021/06/31)
