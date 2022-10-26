@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.853.551 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.868.878 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -59,6 +59,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/10/20 |  |
 | [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/03/06 |  |
+| [porn-records's list](https://github.com/porn-records/Porn-Records) | 2022/10/19 | Merged all the "ACTIVE" files |
 
 ## Random lists
 - https://gist.githubusercontent.com/sibaspage/5248d7600a24284f580219b29d178c49/raw/b35fdaf7a8685b536da0022102e125df70c50eb1/pornsite-list.txt
