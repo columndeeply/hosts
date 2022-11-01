@@ -47,15 +47,15 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [1boii's list](https://github.com/1boii/hosts/blob/main/hosts) | 2022/03/11 |  |
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2022/10/23 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2022/09/27 |  |
-| [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) | 255,663 / 51,356 | "Porn" and "Porn Lite Extension". |
+| [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) | 255,617 / 51,357 | "Porn" and "Porn Lite Extension". |
 | [My Privacy DNS's list](https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list) | 2021/12/03 |  |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2022/10/02 |  |
 | [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/10/27 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2022/06/21 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/10/29 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/11/01 |  |
 | [clefspeare13's list](https://mypdns.org/clefspeare13/pornhosts/-/tree/master/download_here/0.0.0.0) | 2022/10/28 |  |
 | [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
-| [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2022/10/28 |  |
+| [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2022/10/31 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/10/28 |  |
 | [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/03/06 |  |
