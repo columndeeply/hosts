@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 3.980.771 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 4.089.362 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -66,6 +66,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 - https://booru.org/top (Filtered by NSFW and sorted by number of images. First 10 pages only since after that they had less than 200 images each, not worth the effort to parse them.)
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
 - https://github.com/saskuu/blocklist/blob/main/porno.txt
+- https://github.com/CyberPurifyAI/purify/blob/67249f0bbbccce7d7dd8cadee8d6cfe23e1ae3b1/Filters/filter/porn/m.txt
 
 ## Archived or abandoned (+1 year without updates)
 - https://github.com/11201010/anti-porn-hosts-file/blob/master/HOSTS.txt (2020/08/03)
