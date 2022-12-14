@@ -47,18 +47,17 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [1boii's list](https://github.com/1boii/hosts/blob/main/hosts) | 2022/03/11 |  |
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2022/12/06 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2022/09/27 |  |
-| [EnergizedProtection's lists](https://github.com/EnergizedProtection/block) | 294,274 / 65,081 | "Porn" and "Porn Lite Extension". |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2022/11/29 |  |
-| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/12/07 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/12/13 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2022/12/03 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/12/08 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/12/13 |  |
 | [clefspeare13's list](https://mypdns.org/clefspeare13/pornhosts/-/tree/master/download_here/0.0.0.0) | 2022/11/16 |  |
-| [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2022/12/07 |  |
 | [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
+| [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2022/12/14 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/04/04 | Split by first letter of domain. ``cat * > merged`` to fuse. |
 | [porn-records's list](https://github.com/porn-records/Porn-Records) | 2022/10/19 | Merged all the "ACTIVE" files |
-| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/12/08 |  |
-| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/11/30 |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/12/13 |  |
+| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/12/09 |  |
 
 ## Random lists
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
@@ -73,3 +72,4 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 - https://github.com/chadmayfield/my-pihole-blocklists/blob/master/lists/pi_blocklist_porn_all.list
 - https://github.com/tiuxo/hosts/blob/master/porn (2020/12/06)
 - https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list (2021/12/03)
+- https://github.com/EnergizedProtection/block (marking it as abandoned until [this](https://github.com/EnergizedProtection/block/issues/980) is solved)
