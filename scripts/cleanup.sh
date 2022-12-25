@@ -20,8 +20,8 @@ for file in "$@"; do
 	## Remove any lines pointing to an IP address, hosts file only works with domains or hostnames
 	sed -i -r '/ ([0-9]{1,3}\.){3}[0-9]{1,3}$/d' "$file"
 
-	# Remove multiple spaces (If anybody knows how to do this with sed please let me know)
-	tr -s ' ' < "$file" > "$file.tmp"
+	# Remove multiple spaces and return lines (If anybody knows how to do this with sed please let me know)
+	tr -s ' ' < "$file" | tr -d '\r' > "$file.tmp"
 
 	# Remove any domain that exists in the whitelist
 	grep -v -x -f ../whitelist "$file.tmp" > "$file.tmp2"
