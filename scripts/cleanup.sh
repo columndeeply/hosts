@@ -14,9 +14,11 @@ for file in "$@"; do
 
 	# All domains should point to 127.0.0.1
 	## Add it to all lines not starting with an IP address
-	sed -i -r '/^([0-9]{1,3}\.){3}[0-9]{1,3}/! s/^/127.0.0.1 /' "$file"
+	sed -i -r '/^([0-9]{1,3}\.){3}[0-9]{1,3} /! s/^/127.0.0.1 /' "$file"
 	## Replace all IPs with 127.0.0.1
 	sed -i -r 's/^([0-9]{1,3}\.){3}[0-9]{1,3} /127.0.0.1 /g' "$file"
+	## Remove any lines pointing to an IP address, hosts file only works with domains or hostnames
+	sed -i -r '/ ([0-9]{1,3}\.){3}[0-9]{1,3}$/d' "$file"
 
 	# Remove multiple spaces (If anybody knows how to do this with sed please let me know)
 	tr -s ' ' < "$file" > "$file.tmp"
