@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 4.015.527 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 9.799.677 unique domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -9,6 +9,8 @@ You can use this list with most DNS based blockers (PiHole/Adguard Home/Techniti
 Add these to your blocklist and you're ready to go.
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00  
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03
 
 ## Hosts file
 ### On Windows
@@ -47,15 +49,16 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [1boii's list](https://github.com/1boii/hosts/blob/main/hosts) | 2022/03/11 |  |
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2022/12/06 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2022/09/27 |  |
+| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2023/01/01 |  |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2022/11/29 |  |
 | [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2022/12/29 | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2022/12/17 |  |
 | [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2022/12/30 |  |
 | [clefspeare13's list](https://mypdns.org/clefspeare13/pornhosts/-/tree/master/download_here/0.0.0.0) | 2022/12/16 |  |
-| [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
 | [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2022/12/29 |  |
-| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/12/29 | Split by first letter of domain. |
-| [porn-records's list](https://github.com/porn-records/Porn-Records) | 2022/10/19 | Merged all the "ACTIVE" files |
+| [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
+| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2022/12/29 |  |
+| [porn-records's list](https://github.com/porn-records/Porn-Records) | 2022/10/19 |  |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2022/12/29 |  |
 | [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2022/12/09 |  |
 
@@ -69,7 +72,8 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 ## Archived or abandoned (+1 year without updates)
 - https://github.com/11201010/anti-porn-hosts-file/blob/master/HOSTS.txt (2020/08/03)
 - https://github.com/Amdr0meda/Blocklist_Pi_Hole/blob/master/Porn%20pages.txt (2021/06/31)
+- https://github.com/EnergizedProtection/block (marking it as abandoned until [this](https://github.com/EnergizedProtection/block/issues/980) is solved)
 - https://github.com/chadmayfield/my-pihole-blocklists/blob/master/lists/pi_blocklist_porn_all.list
+- https://github.com/mhxion/pornaway (2021/02/20)
 - https://github.com/tiuxo/hosts/blob/master/porn (2020/12/06)
 - https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list (2021/12/03)
-- https://github.com/EnergizedProtection/block (marking it as abandoned until [this](https://github.com/EnergizedProtection/block/issues/980) is solved)
