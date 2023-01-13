@@ -12,8 +12,8 @@ cat ../hosts* > merged.tmp
 rm -f ../hosts*
 
 # Remove duplicates
-sort < merged.tmp | uniq > merged
-sort < ../whitelist | uniq > whitelist
+sort -u -o merged merged.tmp
+sort -u -o whitelist ../whitelist
 mv whitelist ../whitelist
 
 # Check whitelist and remove matches

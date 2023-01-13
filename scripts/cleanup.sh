@@ -27,7 +27,7 @@ for file in "$@"; do
 	grep -v -x -f ../whitelist "$file.tmp" > "$file.tmp2"
 
 	# Remove duplicates
-	sort < "$file.tmp2" | uniq > "$file"_clean
+	sort -u -o "$file"_clean "$file.tmp2"
 
 	# Remove the old files
 	rm "$file.tmp" "$file.tmp2" "$file"

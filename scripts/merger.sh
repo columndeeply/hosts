@@ -22,7 +22,7 @@ cat "$@" ../hosts* > merged.tmp
 rm -f ../hosts*
 
 # Remove duplicates
-sort < merged.tmp | uniq > merged
+sort -u -o merged merged.tmp
 
 # Check whitelist and remove matches
 comm -2 -3 merged ../whitelist > merged2
