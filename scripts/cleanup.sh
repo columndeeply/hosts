@@ -10,7 +10,7 @@ for file in "$@"; do
 	[ ! -f "$file" ] && echo "$file does not exist" && continue
 
 	# Remove comments, stuff pointing to localhost, whitespaces, tabs, etc.
-	sed -i 's/#.*$//g;/^$/d;/localhost$/d;/::/d;/local$/d;/localdomain$/d;/broadcasthost$/d;/0.0.0.0$/d;/^[[:space:]]*$/d;s/[ \t]*$//g;s/^[ \t]*//g;s/[[:blank:]]/ /g' "$file"
+	sed -i 's/#.*$//g;/^$/d;/localhost$/d;/::/d;/local$/d;/localdomain$/d;/broadcasthost$/d;/0.0.0.0$/d;/^[[:space:]]*$/d;s/[ \t]*$//g;s/^[ \t]*//g;s/[[:blank:]]/ /g;s/https\?:\/\///g;s/\/.*$//g;s/\?.*$//g' "$file"
 
 	# All domains should point to 127.0.0.1
 	## Add it to all lines not starting with an IP address
