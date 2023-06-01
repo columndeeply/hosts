@@ -839,6 +839,7 @@
 127.0.0.1 ip-api.com
 127.0.0.1 ishainsight.actonservice.com
 127.0.0.1 istockphoto.com
+127.0.0.1 jdownloader.org
 127.0.0.1 kickstarter.com
 127.0.0.1 kristechwire.actonservice.com
 127.0.0.1 landstar.actonservice.com
@@ -850,6 +851,7 @@
 127.0.0.1 mediasource.actonservice.com
 127.0.0.1 meetup.com
 127.0.0.1 mega.co.nz
+127.0.0.1 m.openlibrary.org
 127.0.0.1 mortgagefamily.actonservice.com
 127.0.0.1 msn.com
 127.0.0.1 m.stitcher.com
@@ -859,6 +861,7 @@
 127.0.0.1 newassets.hcaptcha.com
 127.0.0.1 oceanautomotive.actonservice.com
 127.0.0.1 oncoclinicas.actonservice.com
+127.0.0.1 openlibrary.org
 127.0.0.1 orange.fr
 127.0.0.1 oroinc.actonservice.com
 127.0.0.1 pal-v.actonservice.com
@@ -917,7 +920,9 @@
 127.0.0.1 www.imdb.com
 127.0.0.1 www.imgbb.com
 127.0.0.1 www.instagram.com
+127.0.0.1 www.jdownloader.org
 127.0.0.1 www.linkedin.com
+127.0.0.1 www.openlibrary.org
 127.0.0.1 www.pinterest.com
 127.0.0.1 www.rankia.com
 127.0.0.1 www.stitcher.com
