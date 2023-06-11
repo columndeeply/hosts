@@ -594,6 +594,7 @@
 127.0.0.1 calypto.actonservice.com
 127.0.0.1 camisado.actonservice.com
 127.0.0.1 ccleaner.com
+127.0.0.1 cdn.cookielaw.org
 127.0.0.1 cdn.shopify.com
 127.0.0.1 celigo.actonservice.com
 127.0.0.1 choosegcg.actonservice.com
@@ -862,6 +863,7 @@
 127.0.0.1 oceanautomotive.actonservice.com
 127.0.0.1 oncoclinicas.actonservice.com
 127.0.0.1 openlibrary.org
+127.0.0.1 openuserjs.org
 127.0.0.1 orange.fr
 127.0.0.1 oroinc.actonservice.com
 127.0.0.1 pal-v.actonservice.com
@@ -923,6 +925,7 @@
 127.0.0.1 www.jdownloader.org
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.openlibrary.org
+127.0.0.1 www.openuserjs.org
 127.0.0.1 www.pinterest.com
 127.0.0.1 www.rankia.com
 127.0.0.1 www.stitcher.com
@@ -937,6 +940,3 @@
 127.0.0.1 youtube.googleapis.com
 127.0.0.1 youtubei.googleapis.com
 127.0.0.1 zendesk.com
-127.0.0.1 openuserjs.org
-127.0.0.1 www.openuserjs.org
-127.0.0.1 cdn.cookielaw.org
