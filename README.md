@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 10.147.171 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 10.194.242 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -48,17 +48,15 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 |---|---|---|
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2023/02/27 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2023/02/26 |  |
-| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2023/05/31 |  |
+| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2023/06/30 |  |
 | [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2023/05/21 |  |
-| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2023/05/25  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2023/06/28  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2023/01/10 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2023/06/01 |  |
-| [mhhakim's list](https://github.com/mhhakim/pihole-blocklist/blob/master/custom-porn-blocklist.txt) | 2022/05/11 |  |
-| [mhhakim's list #2](https://github.com/mhhakim/pihole-blocklist/blob/master/porn.txt) | 2023/03/23 |  |
-| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2023/05/24 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2023/07/01 |  |
+| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2023/06/23 |  |
 | [porn-records's list](https://github.com/porn-records/Porn-Records) | 2022/10/19 |  |
-| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2023/06/01 |  |
-| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2023/02/21 |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2023/06/21 |  |
+| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2023/06/16 |  |
 
 ## Random lists
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
@@ -77,3 +75,4 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 - https://github.com/tiuxo/hosts/blob/master/porn (2020/12/06)
 - https://mypdns.org/clefspeare13/pornhosts/-/tree/master/download_here/0.0.0.0
 - https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list (2021/12/03)
+- https://github.com/mhhakim/pihole-blocklist (2023/03/23)
