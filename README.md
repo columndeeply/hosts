@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 10.194.242 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 10.295.943 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -47,16 +47,16 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 
 | Link | Last update | Comments |
 |---|---|---|
-| [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2023/07/25 |  |
+| [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2023/08/26 |  |
 | [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2023/02/26 |  |
-| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2023/07/31 |  |
-| [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2023/07/06 |  |
-| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2023/07/27  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
+| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2023/08/30 |  |
+| [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2023/08/22 |  |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2023/08/28  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2023/07/20 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2023/07/31 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2023/08/31 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2023/06/23 |  |
 | [porn-records's list](https://github.com/porn-records/Porn-Records) | 2023/06/23 |  |
-| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2023/07/25 |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2023/08/31 |  |
 | [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2023/06/16 |  |
 
 ## Random lists
