@@ -8,10 +8,10 @@ You can use this list with most DNS based blockers (PiHole/Adguard Home/Techniti
 ## PiHole/AdGuard Home/Technitium DNS
 Add these to your blocklist and you're ready to go.
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts00  
-> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01
-> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02
-> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03
-> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01  
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02  
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03  
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04  
 
 ## Hosts file
 ### On Windows
@@ -48,15 +48,15 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | Link | Last update | Comments |
 |---|---|---|
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2024/01/15 |  |
-| [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2024/04/01 |  |
-| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2024/03/31 |  |
-| [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2024/03/24 |  |
-| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2024/03/29  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
+| [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) | 2024/05/01 |  |
+| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) | 2024/04/28 |  |
+| [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) | 2024/04/13 |  |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | 2024/05/01  | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
 | [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) | 2024/01/08 |  |
-| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2024/04/01 |  |
-| [cbuijs's list #2](https://github.com/cbuijs/ut1/blob/master/porn/domains.24733) | 2024/04/01 |  |
-| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2023/10/24 |  |
-| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2024/03/27 |  |
+| [cbuijs's list](https://github.com/cbuijs/ut1/blob/master/adult/domains.24733) | 2024/05/02 |  |
+| [cbuijs's list #2](https://github.com/cbuijs/ut1/blob/master/porn/domains.24733) | 2024/05/02 |  |
+| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2024/04/23 |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2024/04/30 |  |
 | [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) | 2023/09/28 |  |
 
 ## Random lists
