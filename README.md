@@ -45,6 +45,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 # Sources
 ## Repos
 
+<<<<<<< HEAD
 | Link | Last update | Comments |
 |---|---|---|
 | [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) | 2024/04/13 |  |
@@ -56,6 +57,19 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [cbuijs's list](https://dsi.ut-capitole.fr/blacklists/index_en.phpj) | 2024/08/01 |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) | 2024/04/23 |  |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) | 2024/07/23 |  |
+=======
+| Link | Comments |
+|---|---|
+| [4skinSkywalker's list](https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File/blob/master/HOSTS.txt) |  |
+| [Bon-Appetit's list](https://github.com/Bon-Appetit/porn-domains/blob/master/block.txt) |  |
+| [RPiList' list](https://github.com/RPiList/specials/tree/master/Blocklisten) |   |
+| [Sinfonietta's list](https://github.com/Sinfonietta/hostfiles/blob/master/pornography-hosts) |  |
+| [StevenBlack's list](https://github.com/StevenBlack/hosts/blob/master/alternates/porn/hosts) | Ships packaged with the unified adware + malware lists.<br>``sed -i '0,/^# End yoyo/d; /^#/d; s/ #.*//g; /^$/d'`` |
+| [blocklistproject's list](https://github.com/blocklistproject/Lists/blob/master/porn.txt) |  |
+| [cbuijs's list](https://dsi.ut-capitole.fr/blacklists/index_en.php) |  |
+| [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) |  |
+| [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) |  |
+>>>>>>> 062f296 (Update README.md)
 
 ## Random lists
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
