@@ -13,6 +13,9 @@ Add these to your blocklist and you're ready to go.
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03  
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04  
 
+If you want to also enable the safebrowsing redirects you'll need to add this list too.
+> https://raw.githubusercontent.com/columndeeply/hosts/refs/heads/main/safebrowsing
+
 ## Hosts file
 ### On Windows
 Edit the file ``C:\Windows\System32\drivers\etc\hosts`` with administrator privileges and add the domains.
