@@ -1,4 +1,4 @@
-This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 11.005.916 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
+This is the result of merging and cleaning up a bunch of porn-blocking lists I've found scattered through the web. It currently has 11.457.459 domains and a redirect to the "Safe Browsing" versions of Google, DuckDuckGo, Bing, YouTube and Yandex.
 
 The list is split into 90MB chunks to avoid GitHub's [file size limit](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github). If you need a single file list it can be found on the [releases page](https://github.com/columndeeply/hosts/releases/tag/latest). The merged list will be updated once a month.
 
@@ -25,10 +25,10 @@ Add the domains to ``/etc/hosts``. You also download and append them with ``cat 
 You can use any of the DNS based blockers like [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [personalDNSfilter](https://f-droid.org/en/packages/dnsfilter.android/) or [Daedalus](https://f-droid.org/en/packages/org.itxtech.daedalus/) and add the links posted above.
 
 # Contributing
-Since this list is just a fused version of other lists and the domains aren't manually checked it'll probably have false positives. If a site is listed here and you think it shouldn't please let me know by opening a new issue or making a pull request. The same goes if you think a site should be added to the list. In both cases please use the appropriate tag on the issue/PR title: ``[Addition Request]`` or ``[Removal Request]``.
+Since this list is just a fused version of other lists and the domains aren't manually checked it'll probably have false positives. If a site is listed here and you think it shouldn't please let me know by posting in the pinned issue. Same goes if you think a domain should be added to the blocklist. Feel free to open a new issue for any other problems or questions.
 
 ### By making an issue
-If you're submitting more than a couple dozen domains please make a pull request or use a pastebin site. If it's just a few domains then just paste them on the issue. If you took the domains from another list please say so and leave a link to their page so it can be added to the "Sources" table below.
+If you're submitting more than a couple dozen domains please make a pull request or use a pastebin site. If it's just a few domains then just paste them on the pinned issue. If you took the domains from another list please say so and leave a link to their page so it can be added to the "Sources" table below.
 
 ### By making a pull request
 When making a pull request you should add a file on the "contributions" directory with your domains. I'll then merge your pull request and merge the file into the main list. **Please do not make changes directly to the main list.** If you're not sure how to list the domains take a look at the [example](https://github.com/columndeeply/hosts/blob/main/contributions/example.txt).
