@@ -552,8 +552,12 @@
 127.0.0.1 ad.ipredictive.com
 127.0.0.1 adjust.com
 127.0.0.1 adroll.com
+127.0.0.1 adscontent2.indiatimes.com
+127.0.0.1 adscontent.indiatimes.com
 127.0.0.1 ads.google.com
+127.0.0.1 ads.indiatimes.com
 127.0.0.1 ads.tiktok.com
+127.0.0.1 adstil.indiatimes.com
 127.0.0.1 advertise.bingads.microsoft.com
 127.0.0.1 advisorycloud-dev.actonservice.com
 127.0.0.1 advtek.actonservice.com
@@ -737,6 +741,7 @@
 127.0.0.1 domains.google
 127.0.0.1 doordash.com
 127.0.0.1 download.cnet.com
+127.0.0.1 dr.dk
 127.0.0.1 dreamstime.com
 127.0.0.1 ds.reson8.com
 127.0.0.1 duckduckgo.com
@@ -1006,6 +1011,7 @@
 127.0.0.1 i0.wp.com
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ibb.co
+127.0.0.1 ibeat.indiatimes.com
 127.0.0.1 ibiblio.org
 127.0.0.1 icrc.org
 127.0.0.1 ideadevice.actonservice.com
@@ -1013,6 +1019,8 @@
 127.0.0.1 iheart.com
 127.0.0.1 imdb.com
 127.0.0.1 imgbb.com
+127.0.0.1 indiantimesexpress.com
+127.0.0.1 indiatimes.com
 127.0.0.1 indiegogo.com
 127.0.0.1 infoland.actonservice.com
 127.0.0.1 informit.com
@@ -1062,8 +1070,10 @@
 127.0.0.1 meltwater.com
 127.0.0.1 m.facebook.com
 127.0.0.1 mindvalley.com
+127.0.0.1 mitid.dk
 127.0.0.1 mixpanel.com
 127.0.0.1 mlive.com
+127.0.0.1 mobileads.indiatimes.com
 127.0.0.1 m.openlibrary.org
 127.0.0.1 mortgagefamily.actonservice.com
 127.0.0.1 mouseflow.com
@@ -1078,6 +1088,9 @@
 127.0.0.1 naver.com
 127.0.0.1 nccer.actonservice.com
 127.0.0.1 neathousepartners.actonservice.com
+127.0.0.1 netspiderads2.indiatimes.com
+127.0.0.1 netspiderads3.indiatimes.com
+127.0.0.1 netspiderads.indiatimes.com
 127.0.0.1 newassets.hcaptcha.com
 127.0.0.1 newyork.cbslocal.com
 127.0.0.1 nsw.gov.au
@@ -1130,6 +1143,7 @@
 127.0.0.1 purdue.edu
 127.0.0.1 px.adhigh.net
 127.0.0.1 px.ads.linkedin.com
+127.0.0.1 qnasexpert.indiatimes.com
 127.0.0.1 qq.com
 127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
@@ -1167,6 +1181,7 @@
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secure.rote8mino.com
 127.0.0.1 segra.actonservice.com
+127.0.0.1 sensibo.com
 127.0.0.1 servedby.ipromote.com
 127.0.0.1 serve.uberads.com
 127.0.0.1 sfgate.com
@@ -1200,6 +1215,7 @@
 127.0.0.1 streetdirectory.com
 127.0.0.1 stripes.com
 127.0.0.1 stuff.co.nz
+127.0.0.1 subscriptionsext.indiatimes.com
 127.0.0.1 success.act-on.com
 127.0.0.1 sucuri.net
 127.0.0.1 sumo.com
@@ -1279,6 +1295,7 @@
 127.0.0.1 www.acog.org
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addtoany.com
+127.0.0.1 www.adscontent.indiatimes.com
 127.0.0.1 www.amplitude.com
 127.0.0.1 www.annualreviews.org
 127.0.0.1 www.appsflyer.com
@@ -1354,6 +1371,7 @@
 127.0.0.1 www.ifrc.org
 127.0.0.1 www.imdb.com
 127.0.0.1 www.imgbb.com
+127.0.0.1 www.indiantimesexpress.com
 127.0.0.1 www.inspectlet.com
 127.0.0.1 www.instagram.com
 127.0.0.1 www.itch.io
@@ -1440,7 +1458,7 @@
 127.0.0.1 www.zemanta.com
 127.0.0.1 www.zoominfo.com
 127.0.0.1 xfinity.com
-127.0.0.1 xnview.com  
+127.0.0.1 xnview.com
 127.0.0.1 yahoo.com
 127.0.0.1 yandex.com
 127.0.0.1 yandex.ru
