@@ -565,6 +565,7 @@
 127.0.0.1 aeromark.actonservice.com
 127.0.0.1 aew.actonservice.com
 127.0.0.1 aicipc.actonservice.com
+127.0.0.1 aiia-server.gaytomycode.com
 127.0.0.1 aip.actonservice.com
 127.0.0.1 airefcoinc.actonservice.com
 127.0.0.1 ajax.googleapis.com
@@ -595,11 +596,13 @@
 127.0.0.1 aol.com
 127.0.0.1 apbspeakers.actonservice.com
 127.0.0.1 apcerpharma.actonservice.com
+127.0.0.1 api.gaytomycode.com
 127.0.0.1 api.ning.com
 127.0.0.1 apple.com
 127.0.0.1 appsflyer.com
 127.0.0.1 apsense.com
 127.0.0.1 apwip-dev.actonservice.com
+127.0.0.1 aqs-api.gaytomycode.com
 127.0.0.1 aragenbio.actonservice.com
 127.0.0.1 aragonresearch.actonservice.com
 127.0.0.1 argyleforum.actonservice.com
@@ -668,6 +671,7 @@
 127.0.0.1 bracoamerica.com
 127.0.0.1 branch.io
 127.0.0.1 brandchannel.com
+127.0.0.1 breakup.gaytomycode.com
 127.0.0.1 bustle.com
 127.0.0.1 buzzsumo.com
 127.0.0.1 c1.adform.net
@@ -678,6 +682,7 @@
 127.0.0.1 calypto.actonservice.com
 127.0.0.1 camisado.actonservice.com
 127.0.0.1 canal4rd.com
+127.0.0.1 car-manager.gaytomycode.com
 127.0.0.1 cbn.com
 127.0.0.1 ccleaner.com
 127.0.0.1 cdbaby.com
@@ -689,12 +694,21 @@
 127.0.0.1 cell.com
 127.0.0.1 channel3000.com
 127.0.0.1 channel4.com
+127.0.0.1 chat.gaytomycode.com
 127.0.0.1 chiark.greenend.org.uk
 127.0.0.1 china.org.cn
 127.0.0.1 choosegcg.actonservice.com
 127.0.0.1 chromium.org
 127.0.0.1 cio.com
 127.0.0.1 circleid.com
+127.0.0.1 civi-api-identity.gaytomycode.com
+127.0.0.1 civi-api-table.gaytomycode.com
+127.0.0.1 civi-app.gaytomycode.com
+127.0.0.1 civic-api-core.gaytomycode.com
+127.0.0.1 civic-api-identity.gaytomycode.com
+127.0.0.1 civic-api-table.gaytomycode.com
+127.0.0.1 civic.gaytomycode.com
+127.0.0.1 civi-core.gaytomycode.com
 127.0.0.1 cj.com
 127.0.0.1 clck.ru
 127.0.0.1 cldup.com
@@ -705,6 +719,8 @@
 127.0.0.1 cnet.com
 127.0.0.1 cnn.com
 127.0.0.1 cnv.event.prod.bidr.io
+127.0.0.1 cocoon-django.gaytomycode.com
+127.0.0.1 cocoon-fastapi.gaytomycode.com
 127.0.0.1 colourlovers.com
 127.0.0.1 comcluster.cxense.com
 127.0.0.1 communitybuyinggroup.actonservice.com
@@ -719,6 +735,7 @@
 127.0.0.1 connexuscu.actonservice.com
 127.0.0.1 construsoft.actonservice.com
 127.0.0.1 correosexpress.com
+127.0.0.1 course.gaytomycode.com
 127.0.0.1 crazyegg.com
 127.0.0.1 criteo.com
 127.0.0.1 crmonline.actonservice.com
@@ -728,9 +745,11 @@
 127.0.0.1 data.un.org
 127.0.0.1 davidrumsey.com
 127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 dedo.gaytomycode.com
 127.0.0.1 dentx.com.tr
 127.0.0.1 depositphotos.com
 127.0.0.1 deusx.com
+127.0.0.1 dev.course.gaytomycode.com
 127.0.0.1 developers.google.com
 127.0.0.1 dev-tacticalma.actonservice.com
 127.0.0.1 d.hatena.ne.jp
@@ -760,6 +779,8 @@
 127.0.0.1 etracker.com
 127.0.0.1 etsy.com
 127.0.0.1 eurekalert.org
+127.0.0.1 exakty-api-audio.gaytomycode.com
+127.0.0.1 exakty-api-core.gaytomycode.com
 127.0.0.1 ext-inv-cdn.presage.io
 127.0.0.1 extremetech.com
 127.0.0.1 facebook.com
@@ -781,6 +802,7 @@
 127.0.0.1 fox4kc.com
 127.0.0.1 free.fr
 127.0.0.1 fullstory.com
+127.0.0.1 gaytomycode.com
 127.0.0.1 g.co
 127.0.0.1 getfirefox.com
 127.0.0.1 getresponse.com
@@ -1019,6 +1041,7 @@
 127.0.0.1 iheart.com
 127.0.0.1 imdb.com
 127.0.0.1 imgbb.com
+127.0.0.1 imu.gaytomycode.com
 127.0.0.1 indiantimesexpress.com
 127.0.0.1 indiatimes.com
 127.0.0.1 indiegogo.com
@@ -1057,6 +1080,7 @@
 127.0.0.1 livescience.com
 127.0.0.1 lulu.com
 127.0.0.1 maformationofficinale.actonservice.com
+127.0.0.1 mail.gaytomycode.com
 127.0.0.1 mail.ru
 127.0.0.1 marccelus.com
 127.0.0.1 marinetraffic.com
@@ -1069,6 +1093,7 @@
 127.0.0.1 mega.co.nz
 127.0.0.1 meltwater.com
 127.0.0.1 m.facebook.com
+127.0.0.1 mindtales-api.gaytomycode.com
 127.0.0.1 mindvalley.com
 127.0.0.1 mitid.dk
 127.0.0.1 mixpanel.com
@@ -1082,6 +1107,7 @@
 127.0.0.1 msn.com
 127.0.0.1 m.stitcher.com
 127.0.0.1 msufcu.actonservice.com
+127.0.0.1 mud-n-more.gaytomycode.com
 127.0.0.1 mylifetime.com
 127.0.0.1 mywot.com
 127.0.0.1 na01.safelinks.protection.outlook.com
@@ -1145,6 +1171,8 @@
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 qnasexpert.indiatimes.com
 127.0.0.1 qq.com
+127.0.0.1 qrcode-api.gaytomycode.com
+127.0.0.1 qrcode.gaytomycode.com
 127.0.0.1 qualtrics.com
 127.0.0.1 quantcast.com
 127.0.0.1 questintegrity.actonservice.com
@@ -1223,6 +1251,7 @@
 127.0.0.1 sussex.ac.uk
 127.0.0.1 svarcom.actonservice.com
 127.0.0.1 swagbucks.com
+127.0.0.1 swf.gaytomycode.com
 127.0.0.1 sync.extend.tv
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 taboola.com
@@ -1246,6 +1275,7 @@
 127.0.0.1 theringer.com
 127.0.0.1 tmlt.actonservice.com
 127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 toptal-api.gaytomycode.com
 127.0.0.1 tottenhamhotspur.com
 127.0.0.1 towerfcu.actonservice.com
 127.0.0.1 townsquareinteractive.actonservice.com
@@ -1272,6 +1302,8 @@
 127.0.0.1 view.adjust.com
 127.0.0.1 vk.com
 127.0.0.1 vox.com
+127.0.0.1 waitinglist-admin.gaytomycode.com
+127.0.0.1 waitinglist.gaytomycode.com
 127.0.0.1 walmart.com
 127.0.0.1 washingtoncitypaper.com
 127.0.0.1 washingtonpost.com
@@ -1281,8 +1313,10 @@
 127.0.0.1 weebly.com
 127.0.0.1 weibo.com
 127.0.0.1 wikimedia.org
+127.0.0.1 wishlist.gaytomycode.com
 127.0.0.1 wix.com
 127.0.0.1 wnycstudios.org
+127.0.0.1 wolker.gaytomycode.com
 127.0.0.1 woodtone.actonservice.com
 127.0.0.1 wordpress.com
 127.0.0.1 wp.com
@@ -1351,6 +1385,7 @@
 127.0.0.1 www.forbes.com
 127.0.0.1 www.fox4kc.com
 127.0.0.1 www.fullstory.com
+127.0.0.1 www.gaytomycode.com
 127.0.0.1 www.getfirefox.com
 127.0.0.1 www.getresponse.com
 127.0.0.1 www.gfycat.com
@@ -1467,6 +1502,15 @@
 127.0.0.1 youtube.com
 127.0.0.1 youtube.googleapis.com
 127.0.0.1 youtubei.googleapis.com
+127.0.0.1 yqrc-api-core.gaytomycode.com
+127.0.0.1 yqrc-api-identity.gaytomycode.com
+127.0.0.1 yqrc-api-qrcode.gaytomycode.com
+127.0.0.1 yqrc-api-queue.gaytomycode.com
+127.0.0.1 yqrc-api-resturant.gaytomycode.com
+127.0.0.1 yqrc-api-seating.gaytomycode.com
+127.0.0.1 yqrc-api-shrink.gaytomycode.com
+127.0.0.1 yqrc-api-terms.gaytomycode.com
+127.0.0.1 yqrc-identity-api.gaytomycode.com
 127.0.0.1 yumpu.com
 127.0.0.1 zemanta.com
 127.0.0.1 zendesk.com
