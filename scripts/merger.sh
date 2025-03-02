@@ -23,6 +23,8 @@ rm -f ../hosts*
 
 # Remove duplicates
 sort -u -o merged merged.tmp
+sort -u -o whitelist ../whitelist
+mv whitelist ../whitelist
 
 # Check whitelist and remove matches
 comm -2 -3 merged ../whitelist > merged2
