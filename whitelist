@@ -598,6 +598,7 @@
 127.0.0.1 aol.com
 127.0.0.1 apbspeakers.actonservice.com
 127.0.0.1 apcerpharma.actonservice.com
+127.0.0.1 api.datadoghq.com
 127.0.0.1 api.gaytomycode.com
 127.0.0.1 api.ning.com
 127.0.0.1 apple.com
@@ -674,6 +675,8 @@
 127.0.0.1 branch.io
 127.0.0.1 brandchannel.com
 127.0.0.1 breakup.gaytomycode.com
+127.0.0.1 browser-http-intake.logs.datadoghq.com
+127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 bustle.com
 127.0.0.1 buzzsumo.com
 127.0.0.1 c1.adform.net
@@ -742,6 +745,7 @@
 127.0.0.1 criteo.com
 127.0.0.1 crmonline.actonservice.com
 127.0.0.1 crs.actonservice.com
+127.0.0.1 ctfassets.net
 127.0.0.1 cygwin.com
 127.0.0.1 d.agkn.com
 127.0.0.1 data.un.org
@@ -1009,6 +1013,7 @@
 127.0.0.1 google.tn
 127.0.0.1 google.to
 127.0.0.1 google.tt
+127.0.0.1 googleusercontent.com
 127.0.0.1 google.vg
 127.0.0.1 google.vu
 127.0.0.1 google.ws
@@ -1042,6 +1047,7 @@
 127.0.0.1 ideadevice.actonservice.com
 127.0.0.1 ifrc.org
 127.0.0.1 iheart.com
+127.0.0.1 images1-focus-opensocial.googleusercontent.com
 127.0.0.1 imdb.com
 127.0.0.1 imgbb.com
 127.0.0.1 imu.gaytomycode.com
@@ -1073,6 +1079,15 @@
 127.0.0.1 landstar.actonservice.com
 127.0.0.1 latimesblogs.latimes.com
 127.0.0.1 lenta.ru
+127.0.0.1 lh1.googleusercontent.com
+127.0.0.1 lh2.googleusercontent.com
+127.0.0.1 lh3.googleusercontent.com
+127.0.0.1 lh4.googleusercontent.com
+127.0.0.1 lh5.googleusercontent.com
+127.0.0.1 lh6.googleusercontent.com
+127.0.0.1 lh7.googleusercontent.com
+127.0.0.1 lh8.googleusercontent.com
+127.0.0.1 lh9.googleusercontent.com
 127.0.0.1 l.hrzn-nxt.com
 127.0.0.1 libsyn.com
 127.0.0.1 line.me
@@ -1081,6 +1096,8 @@
 127.0.0.1 listen.audiohook.com
 127.0.0.1 liveperson.com
 127.0.0.1 livescience.com
+127.0.0.1 logs.browser-intake-datadoghq.com
+127.0.0.1 logs.datadoghq.com
 127.0.0.1 lulu.com
 127.0.0.1 m.18f.org
 127.0.0.1 maformationofficinale.actonservice.com
@@ -1197,6 +1214,7 @@
 127.0.0.1 rspb.royalsocietypublishing.org
 127.0.0.1 rtl.de
 127.0.0.1 r.turn.com
+127.0.0.1 rum-http-intake.logs.datadoghq.com
 127.0.0.1 rutracker.org
 127.0.0.1 s7.addthis.com
 127.0.0.1 sacred-texts.com
@@ -1405,6 +1423,7 @@
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www.google.com
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 www.googleusercontent.com
 127.0.0.1 www.gothamist.com
 127.0.0.1 www.grist.org
 127.0.0.1 www.heavy.com
