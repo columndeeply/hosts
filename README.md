@@ -59,6 +59,7 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 | [cbuijs's list](https://dsi.ut-capitole.fr/blacklists/index_en.php) |  |
 | [mrvivacious's list](https://github.com/mrvivacious/PorNo-_Porn_Blocker/tree/master/lists/Urls) |  |
 | [thisisu's list](https://github.com/thisisu/hosts_adultxxx/blob/master/hosts) |  |
+| [zangadoprojets' list](https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt) |  |
 
 ## Random lists
 - http://controlc.com/99125ac6 (Posted by [/u/lojack_or_nojack](https://teddit.net/r/NoFap/comments/924t6w/an_updated_list_of_porn_sites_to_block_in_your/).)
@@ -79,4 +80,3 @@ Used to merge clean lists with the main one. Should be run like this ``sh merger
 - https://mypdns.org/my-privacy-dns/porn-records/-/blob/master/active_domains/output/merged_results/domains/ACTIVE/list (2021/12/03)
 - https://github.com/mhhakim/pihole-blocklist (2023/03/23)
 - https://github.com/porn-records/Porn-Records (2022/10/19)
-- https://github.com/zangadoprojets/pi-hole-blocklist/blob/main/Pornpages.txt (12/07/2023)
