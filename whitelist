@@ -750,9 +750,11 @@
 127.0.0.1 criteo.com
 127.0.0.1 crmonline.actonservice.com
 127.0.0.1 crs.actonservice.com
+127.0.0.1 csi.gstatic.com
 127.0.0.1 ctfassets.net
 127.0.0.1 cygwin.com
 127.0.0.1 d.agkn.com
+127.0.0.1 data.srf.ch
 127.0.0.1 data.un.org
 127.0.0.1 davidrumsey.com
 127.0.0.1 dc.ads.linkedin.com
@@ -785,6 +787,7 @@
 127.0.0.1 eliberareemotionala.ro
 127.0.0.1 elogic-learning.actonservice.com
 127.0.0.1 emarketer.com
+127.0.0.1 encrypted-tbn1.gstatic.com
 127.0.0.1 epic.org
 127.0.0.1 eschsupply.actonservice.com
 127.0.0.1 esrb.org
@@ -1275,6 +1278,7 @@
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 speedcurve.com
 127.0.0.1 spreadshirt.com
+127.0.0.1 srf.ch
 127.0.0.1 srv.stackadapt.com
 127.0.0.1 starterupsteve.com
 127.0.0.1 statcounter.com
@@ -1516,6 +1520,7 @@
 127.0.0.1 www.sonypictures.com
 127.0.0.1 www.sourceware.org
 127.0.0.1 www.speedcurve.com
+127.0.0.1 www.srf.ch
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.stern.de
 127.0.0.1 www.stitcher.com
