@@ -11,7 +11,8 @@ Add these to your blocklist and you're ready to go.
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts01  
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts02  
 > https://raw.githubusercontent.com/columndeeply/hosts/main/hosts03  
-> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04  
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts04
+> https://raw.githubusercontent.com/columndeeply/hosts/main/hosts05  
 
 If you want to also enable the safebrowsing redirects you'll need to add this list too.
 > https://raw.githubusercontent.com/columndeeply/hosts/refs/heads/main/safebrowsing
