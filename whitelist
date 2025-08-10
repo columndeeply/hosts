@@ -601,6 +601,7 @@
 127.0.0.1 api.datadoghq.com
 127.0.0.1 api.gaytomycode.com
 127.0.0.1 api.ning.com
+127.0.0.1 api.tmdb.org
 127.0.0.1 apple.com
 127.0.0.1 appsflyer.com
 127.0.0.1 apsense.com
@@ -820,6 +821,7 @@
 127.0.0.1 foursquare.com
 127.0.0.1 fox4kc.com
 127.0.0.1 free.fr
+127.0.0.1 fullaventura.com
 127.0.0.1 fullstory.com
 127.0.0.1 gaytomycode.com
 127.0.0.1 g.co
@@ -1063,6 +1065,7 @@
 127.0.0.1 iheart.com
 127.0.0.1 ilmatieteenlaitos.fi
 127.0.0.1 images1-focus-opensocial.googleusercontent.com
+127.0.0.1 image.tmdb.org
 127.0.0.1 imdb.com
 127.0.0.1 imgbb.com
 127.0.0.1 imu.gaytomycode.com
