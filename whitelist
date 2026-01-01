@@ -612,6 +612,7 @@
 127.0.0.1 api.datadoghq.com
 127.0.0.1 api.gaytomycode.com
 127.0.0.1 api.ning.com
+127.0.0.1 api.themoviedb.org
 127.0.0.1 api.tmdb.org
 127.0.0.1 api.userstyles.org
 127.0.0.1 apple.com
